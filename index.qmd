@@ -1,11 +1,31 @@
 ---
-title: "catalina-roman.github.io"
+
+title: "Catalina Roman"
+image: "hello-sea.jpeg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+about: 
+  template: onofre
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/catalina-roman-510905139/
+      target: _blank
+    - text: GitHub
+      href: https://github.com/CataRoman
+      target: _blank 
+    - text: Email
+      href: mailto:croman1@umassd.edu
+
 ---
 
-This is a Quarto website.
+:::{#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I'm Catalina! I study fish for a living, and yes, it's as fun as it sounds.
+Right now I'm working on my PhD, running simulations to figure out how offshore wind farms might mess with fishery surveys, and what we can do about it. Think of it as trying to solve a puzzle where someone keeps moving the pieces.
+My love for ocean creatures started early. As an undergrad at Universidad de Concepción in Chile, I fell down a rabbit hole studying rock lobsters from the remote Juan Fernández Archipelago, an island so far out it's basically Chile's version of a desert island. That turned into a master's project tracking where these lobsters wander using mark recapture data, which is basically detective work but for crustaceans.
+In 2014 I joined IFOP, the Chilean Fisheries Development Institute, where I spent years investigating discard and incidental catch in demersal fisheries. Not the most glamorous corner of marine science, but someone has to make sure we're not accidentally scooping up the wrong fish.
+These days you'll find me buried in R code, spatial models, and dissertation chapters, still trying to make sense of what's happening under the water.
 
-```{r}
-1 + 1
-```
